@@ -1,21 +1,26 @@
+
 {
-  "name": "Minha AltStore",
-  "identifier": "com.cauadias.minha-altstore",
+  "name": "Minha Fonte",
+  "subtitle": "Fonte pessoal de aplicativos",
+  "description": "Minha fonte pessoal do AltStore.",
   "apps": [
     {
       "name": "EnJoyTheMR",
-      "bundleIdentifier": "IDENTIFICADOR_REAL_DO_APP",
-      "developerName": "EnJoyTheMR",
-      "subtitle": "Aplicativo para iOS",
-      "version": "0.3.7",
-      "versionDate": "2026-10-25",
-      "versionDescription": "Versão 0.3.7",
-      "downloadURL": "https://github.com/cauadiasdossantos14-coder/minha-altstore/releases/download/V1.0/EnJoyTheMR_iOS_0.3.7_FULL.ipa",
-      "localizedDescription": "Aplicativo EnJoyTheMR para iOS.",
-      "iconURL": "",
-      "size": 116700000,
-      "permissions": {},
-      "versions": []
+      "bundleIdentifier": "com.Zhes.EnJoyTheMR",
+      "developerName": "Zhes",
+      "subtitle": "EnJoyTheMR para iOS",
+      "localizedDescription": "Versão 0.3.7 do EnJoyTheMR.",
+      "category": "entertainment",
+      "versions": [
+        {
+          "version": "0.3.7",
+          "buildVersion": "0",
+          "date": "2026-10-25",
+          "downloadURL": "https://github.com/cauadiasdossantos14-coder/minha-altstore/releases/download/V1.0/EnJoyTheMR_iOS_0.3.7_FULL.ipa",
+          "size": 122368000,
+          "minOSVersion": "15.0"
+        }
+      ]
     }
   ],
   "news": []
