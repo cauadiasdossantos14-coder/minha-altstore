@@ -1,0 +1,22 @@
+{
+  "name": "Minha AltStore",
+  "identifier": "com.cauadias.minha-altstore",
+  "apps": [
+    {
+      "name": "EnJoyTheMR",
+      "bundleIdentifier": "IDENTIFICADOR_REAL_DO_APP",
+      "developerName": "EnJoyTheMR",
+      "subtitle": "Aplicativo para iOS",
+      "version": "0.3.7",
+      "versionDate": "2026-10-25",
+      "versionDescription": "Versão 0.3.7",
+      "downloadURL": "https://github.com/cauadiasdossantos14-coder/minha-altstore/releases/download/V1.0/EnJoyTheMR_iOS_0.3.7_FULL.ipa",
+      "localizedDescription": "Aplicativo EnJoyTheMR para iOS.",
+      "iconURL": "",
+      "size": 116700000,
+      "permissions": {},
+      "versions": []
+    }
+  ],
+  "news": []
+}
