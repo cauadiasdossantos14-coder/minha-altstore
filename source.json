@@ -1,6 +1,7 @@
 {
   "name": "minha-altstore",
   "identifier": "com.cauadiasdossantos14-coder.minha-altstore",
+  "localizedDescription": "Repositorio pessoal de aplicativos.",
   "apps": [
     {
       "name": "EnjoyTheMR",
@@ -13,7 +14,7 @@
       "localizedDescription": "Aplicativo EnjoyTheMR integrado à minha AltStore.",
       "iconURL": "https://githubusercontent.com",
       "tintColor": "4A90E2",
-      "size": 50000000
+      "size": 52428800
     }
   ]
 }
