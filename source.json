@@ -1,28 +1,19 @@
-
 {
-  "name": "Minha Fonte",
-  "subtitle": "Fonte pessoal de aplicativos",
-  "description": "Minha fonte pessoal do AltStore.",
+  "name": "minha-altstore",
+  "identifier": "com.cauadiasdossantos14-coder.minha-altstore",
   "apps": [
     {
-      "name": "EnJoyTheMR",
+      "name": "EnjoyTheMR",
       "bundleIdentifier": "com.Zhes.EnJoyTheMR",
-      "developerName": "Zhes",
-      "iconURL": "https://raw.githubusercontent.com/cauadiasdossantos14-coder/minha-altstore/main/icon.png",
-      "subtitle": "EnJoyTheMR para iOS",
-      "localizedDescription": "Versão 0.3.7 do EnJoyTheMR.",
-      "category": "entertainment",
-      "versions": [
-        {
-          "version": "0.3.7",
-          "buildVersion": "0",
-          "date": "2026-10-25",
-          "downloadURL": "https://github.com/cauadiasdossantos14-coder/minha-altstore/releases/download/V1.0/EnJoyTheMR_iOS_0.3.7_FULL.ipa",
-          "size": 122368000,
-          "minOSVersion": "15.0"
-        }
-      ]
+      "developerName": "Евгений Жиронкин",
+      "version": "0.3.7",
+      "versionDate": "2026-10-25",
+      "versionDescription": "Versão estável enviada via App On The Go.",
+      "downloadURL": "https://github.com",
+      "localizedDescription": "Aplicativo EnjoyTheMR integrado à minha AltStore.",
+      "iconURL": "https://githubusercontent.com",
+      "tintColor": "4A90E2",
+      "size": 50000000
     }
-  ],
-  "news": []
+  ]
 }
